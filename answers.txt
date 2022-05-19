@@ -1,0 +1,5 @@
+* The newfile.txt was added to the directory, I think the > combined with the ls command put the file into the list on content of the directory that I was in . 
+
+*The status of newfile.txt is that it's a new file.
+
+* The git diff command tells me about the edits of the file, what was taken out or added
